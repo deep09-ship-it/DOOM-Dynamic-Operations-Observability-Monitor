@@ -183,4 +183,3 @@ docker compose up --build
 - Alerts by email or Slack when health drops
 - Monitor multiple VMs at once
 - Use WebSockets instead of polling every 3 seconds
-- 
